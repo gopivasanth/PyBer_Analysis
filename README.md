@@ -10,7 +10,7 @@ The purpose of this project is to create a summary DataFrame showing the ride-sh
 
 The Jupyter Notebook for this project is
 
-[PyBer_Challenge.ipynb](https://github.com/gopivasanth/PyBer_Analysis/blob/c62eca0a5835c5781ce5bb2e6f13923883f9abc2/PyBer_Challenge.ipynb)
+[PyBer_Challenge.ipynb](https://github.com/gopivasanth/PyBer_Analysis/blob/48dfeace53c5c589d355071b1ad66bf269cc09c8/PyBer_Challenge.ipynb)
 
 ## PyBer Analysis Results
 
